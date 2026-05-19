@@ -1,0 +1,4 @@
+pefile
+rich
+colorama
+requests
