@@ -20,7 +20,7 @@ _By Joele_
 - 🧰 **Perfetto per un portfolio GitHub**
 ---
 
-![image alt](https://github.com/joelebernardi0/static-pe-analyzer-pro/blob/2e105e37404bcc578bc9caac641d261bc52323f1/Screenshot%202026-05-19%20142736.png)
+![image alt](https://github.com/joelebernardi0/static-pe-analyzer-pro/blob/2e105e37404bcc578bc9caac641d261bc52323f1/Screenshot%202026-05-19%20142803.png)
 
 ---
 
