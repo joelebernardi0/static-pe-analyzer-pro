@@ -5,10 +5,6 @@ _By Joele_
 
 ![image alt](https://github.com/joelebernardi0/static-pe-analyzer-pro/blob/2e105e37404bcc578bc9caac641d261bc52323f1/Screenshot%202026-05-19%20142736.png)
 
-![image alt](https://github.com/joelebernardi0/static-pe-analyzer-pro/blob/2e105e37404bcc578bc9caac641d261bc52323f1/Screenshot%202026-05-19%20142748.png)
-
-![image alt](https://github.com/joelebernardi0/static-pe-analyzer-pro/blob/2e105e37404bcc578bc9caac641d261bc52323f1/Screenshot%202026-05-19%20142803.png)
-
 ---
 
 ## 📌 Descrizione del progetto
@@ -22,6 +18,11 @@ _By Joele_
 - 🌐 **Integrato con VirusTotal**
 - 🧠 **Dotato di un sistema di scoring intelligente**
 - 🧰 **Perfetto per un portfolio GitHub**
+---
+
+![image alt](https://github.com/joelebernardi0/static-pe-analyzer-pro/blob/2e105e37404bcc578bc9caac641d261bc52323f1/Screenshot%202026-05-19%20142736.png)
+
+---
 
 Il tool analizza:
 
@@ -35,6 +36,9 @@ Il tool analizza:
 - Indicatori sospetti (API, URL, registry, networking, crypto, injection)
 - Whitelist Microsoft (riduzione falsi positivi)
 - VirusTotal (malicious / suspicious / harmless)
+---
+
+![image alt](https://github.com/joelebernardi0/static-pe-analyzer-pro/blob/2e105e37404bcc578bc9caac641d261bc52323f1/Screenshot%202026-05-19%20142748.png)
 
 ---
 
